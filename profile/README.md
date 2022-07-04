@@ -4,6 +4,8 @@
 
 # 👋🏼 Welcome to Fundvis Organization!
 Fundvis offers a _Blockchain-driven_ **Workflow Management** solution for the Luxembourgish Fund industry.
+Check out our [website](https://fundvis.org) for more information.  
+Connect with us on [linkedin](https://www.linkedin.com/company/fundvis/)!
 
 ## 👨🏻‍💻 The team
 🧙🏽 [@redaellimattia](https://www.github.com/redaellimattia) | Full Stack Engineer  
