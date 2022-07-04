@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="header.png" width="600" />
+  <img width="650" alt="header" src="https://user-images.githubusercontent.com/30565260/177143546-c74c152a-89bc-43d6-a387-7ccbef7e217c.png">
 </p>
 
 # 👋🏼 Welcome to Fundvis Organization!
