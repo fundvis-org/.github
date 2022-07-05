@@ -9,4 +9,5 @@ Connect with us on [linkedin](https://www.linkedin.com/company/fundvis/)!
 
 ## 👨🏻‍💻 The team
 🧙🏽 [@redaellimattia](https://www.github.com/redaellimattia) | Full Stack Engineer  
-🧑🏼‍🚀 [@mightyflavieee](https://github.com/mightyflavieee) | Backend Engineer
+🧑🏼‍🚀 [@mightyflavieee](https://github.com/mightyflavieee) | Backend Engineer  
+🥷🏽 [@OanceaCiprian](https://github.com/OanceaCiprian) | Backend Engineer
