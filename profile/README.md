@@ -8,6 +8,10 @@ Check out our [website](https://fundvis.org) for more information.
 Connect with us on [linkedin](https://www.linkedin.com/company/fundvis/)!
 
 ## 👨🏻‍💻 The team
-🧙🏽 [@redaellimattia](https://www.github.com/redaellimattia) | Full Stack Engineer  
-🧑🏼‍🚀 [@mightyflavieee](https://github.com/mightyflavieee) | Backend Engineer  
+
+🕵🏼 [@io238](https://github.com/io238) | CTO
+
 🥷🏽 [@OanceaCiprian](https://github.com/OanceaCiprian) | Backend Engineer
+
+🧙🏽 [@redaellimattia](https://www.github.com/redaellimattia) | Frontend Engineer  
+🧑🏼‍🚀 [@mightyflavieee](https://github.com/mightyflavieee) | Frontend Engineer  
